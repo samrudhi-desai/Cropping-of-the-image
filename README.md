@@ -1,0 +1,1 @@
+# Cropping-of-the-image
